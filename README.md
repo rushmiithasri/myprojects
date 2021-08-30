@@ -1,1 +1,2 @@
 # myprojects
+# JavaScript project
